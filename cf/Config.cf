@@ -1,0 +1,7 @@
+local cf = {
+Version = "1.0.1", 
+name = "DMZ HUB",
+status = true
+}
+
+return cf
