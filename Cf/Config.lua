@@ -1,11 +1,12 @@
 local cf = {
-Version = "[0.0.1]", 
+Version = "[4.0.0]", 
 Name = "DMZ HUB",
 Status = true
 }
 
 
 return cf
+
 
 
 
